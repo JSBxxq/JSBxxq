@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JSBxxq
 - 👀 I’m interested in IoT
-- 🌱 I’m currently learning ESP32 and the Arduino IDE
+- 🌱 I’m currently learning ESP32 and the Arduino IDE. C++, etc.
 
 
 <!---
